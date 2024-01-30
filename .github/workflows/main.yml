@@ -14,6 +14,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: app.apksvalley.com
-        username: git_ci_cd
+        server: ftp.apksvalley.com
+        username: git_ci_cd@app.apksvalley.com
         password: 3&W21L,si8=.
