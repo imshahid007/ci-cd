@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Welcome to Github Actions (CI/CD)</h1>
+    <h2>Deployed by: <span style="color: red;">{{name}}</span></h2>
 </body>
 </html>
