@@ -16,4 +16,4 @@ jobs:
       with:
         server: app.apksvalley.com
         username: git_ci_cd
-        password: ${{ 3&W21L,si8=. }}
+        password: 3&W21L,si8=.
