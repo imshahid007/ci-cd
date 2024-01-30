@@ -8,5 +8,6 @@
 <body>
     <h1>Welcome to Github Actions (CI/CD)</h1>
     <h2>Deployed by: <span style="color: red;">{{name}}</span></h2>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos voluptates cupiditate, unde natus sint nemo quibusdam fuga, porro ipsum non commodi eaque? Libero doloremque provident, natus at aut eaque nesciunt.
 </body>
 </html>
